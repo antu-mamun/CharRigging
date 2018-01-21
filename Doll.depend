@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1514244246 source:/media/antu/WORK/Graphics/Doll/main.cpp
+	<math.h>
+	<stdio.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1370385653 /usr/include/GL/glut.h
+	"freeglut_std.h"
+
+1370385653 /usr/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1452628977 /usr/include/GL/gl.h
+	"gl_mangle.h"
+	<windows.h>
+	<GL/glext.h>
+
+1452628977 /usr/include/GL/gl_mangle.h
+
+1452628977 /usr/include/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1497645686 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1497645671 /usr/include/features.h
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1497645671 /usr/include/stdc-predef.h
+
+1497645686 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1382363599 /usr/include/GL/glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1382363599 /usr/include/GL/glu_mangle.h
+
+1497645686 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-bsearch.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1497645672 /usr/include/xlocale.h
+
+1497645686 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1497645687 /usr/include/stdio.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<getopt.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1497645687 /usr/include/libio.h
+	<_G_config.h>
+	<stdarg.h>
+	<sys/cdefs.h>
+	<bits/stdio-lock.h>
+	<shlib-compat.h>
+	<bits/libio-ldbl.h>
+
+1497645687 /usr/include/_G_config.h
+	<bits/types.h>
+	<stddef.h>
+	<wchar.h>
+	<gconv.h>
+
+1497645689 /usr/include/wchar.h
+	<features.h>
+	<stdio.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<stddef.h>
+	<wctype.h>
+	<xlocale.h>
+	<xlocale.h>
+	<xlocale.h>
+	<wctype.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1497645693 /usr/include/wctype.h
+	<features.h>
+	<bits/types.h>
+	<wchar.h>
+	<endian.h>
+	<xlocale.h>
+
+1497645688 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1497645671 /usr/include/gconv.h
+	<features.h>
+	<wchar.h>
+	<stddef.h>
+
+1497645690 /usr/include/getopt.h
+	<ctype.h>
+
+1497645682 /usr/include/ctype.h
+	<features.h>
+	<bits/types.h>
+	<endian.h>
+	<xlocale.h>
+
+1497645689 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1159869522 /media/antu/WORK/Graphics/Doll/const.h
+
+1159869522 /media/antu/WORK/Graphics/Doll/types.h
+
+1159869584 /media/antu/WORK/Graphics/Doll/funcs.h
+
+1497645684 /usr/include/math.h
+	<features.h>
+	<bits/huge_val.h>
+	<bits/huge_valf.h>
+	<bits/huge_vall.h>
+	<bits/inf.h>
+	<bits/nan.h>
+	<bits/mathdef.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathinline.h>
+	<bits/math-finite.h>
+
+1497645688 /usr/include/string.h
+	<features.h>
+	<stddef.h>
+	<xlocale.h>
+	<bits/string.h>
+	<bits/string2.h>
+	<bits/string3.h>
+
+1423235903 /media/antu/WORK/Graphics/Doll/tga.h
+	<Windows.h>
+	<gl\GL.h>
+
+1423235898 /media/antu/WORK/Graphics/Doll/solarsystem.h
+	<Windows.h>
+	<gl\GL.h>
+	<vector>
+	"planet.h"
+
+1423235892 /media/antu/WORK/Graphics/Doll/planet.h
+	<Windows.h>
+	<gl\GL.h>
+	<vector>
+	"moon.h"
+
+1423235854 /media/antu/WORK/Graphics/Doll/moon.h
+	<Windows.h>
+	<gl\GL.h>
+
+1423235838 /media/antu/WORK/Graphics/Doll/camera.h
+
+1423235842 /media/antu/WORK/Graphics/Doll/globals.h
+
